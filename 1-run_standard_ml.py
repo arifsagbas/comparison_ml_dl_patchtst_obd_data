@@ -42,10 +42,10 @@ MODELS = {
 
 # Dosya yolları
 dataset_paths = [
-    "C:\\Users\\Ensar\\Desktop\\OBD\\dataset3s65f_normalized.csv",
-    "C:\\Users\\Ensar\\Desktop\\OBD\\dataset5s65f_normalized.csv",
-    "C:\\Users\\Ensar\\Desktop\\OBD\\dataset7s65f_normalized.csv",
-    "C:\\Users\\Ensar\\Desktop\\OBD\\dataset9s65f_normalized.csv"
+    "\\OBD\\dataset3s65f_normalized.csv",
+    "\\OBD\\dataset5s65f_normalized.csv",
+    "\\OBD\\dataset7s65f_normalized.csv",
+    "\\OBD\\dataset9s65f_normalized.csv"
 ]
 
 results_dir = "C:\\Users\\Ensar\\Desktop\\OBD\\results_ml"
